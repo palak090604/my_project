@@ -1,0 +1,9 @@
+[user]
+	name = Palak Vij
+	email = palakvij09@gmail.com
+[core]
+	askpass = 
+[diff]
+	tool = vimdiff
+[difftool "meld"]
+	path = meld
